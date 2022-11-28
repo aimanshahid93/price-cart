@@ -1,0 +1,18 @@
+body{
+  background:lightblue;
+}
+.pricecart{
+  width:400px;
+  gap:20px;
+}
+.Offers{
+  gap:20px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  margin-top:50px;
+}
+.header{
+  align-items:center;
+  justify-content:center;
+}
